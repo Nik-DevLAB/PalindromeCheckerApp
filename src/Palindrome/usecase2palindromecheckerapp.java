@@ -1,4 +1,6 @@
-public class UseCase2PalindromeCheckerApp {
+package Palindrome;
+
+public class usecase2palindromecheckerapp {
 
     public static void main(String[] args) {
 

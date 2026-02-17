@@ -1,6 +1,6 @@
 package Palindrome;
 import java.util.*;
-public class usecase2palindromecheckerapp {
+public class usecase3Palindrome {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("Input text: ");
